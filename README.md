@@ -1,3 +1,3 @@
 # Web-Profile-Example
 Penggunaan HTML Dan CSS Bootstrap Untuk Website
-![example](img/tampilan.png)
+![example](Portofolio Latihan Mandiri\img\tampilan.png)
